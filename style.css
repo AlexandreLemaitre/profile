@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
-.img-circle {
-  border-radius: 50px;
+.img {
+  border-radius: 15px;
 }
 
 body {
